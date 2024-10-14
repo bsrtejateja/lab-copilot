@@ -1,0 +1,2 @@
+# lab-copilot
+copilot lab
